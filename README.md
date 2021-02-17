@@ -1,5 +1,5 @@
 ## About me
-### Hi my name is Joe, I am going to be a masters by research student at the University of Lincoln. I will be investigating the use of deep learning when attempting to classify patients dementia severity.
+### Hi my name is Joe, I am going to be a masters by research student at the University of Lincoln. I will be investigating potential novel approaches for dementia ADL classification.
 
 ## Contact me
 [![email](https://img.icons8.com/metro/50/000000/email.png)](mailto:joe.c.pearson95@gmail.com)
@@ -18,6 +18,10 @@
 <td align="center" width="20%">
 <span><b><center>Linux</center></b></span><br>
 <img src="https://img.icons8.com/color/50/000000/linux.png"/>
+</td>
+
+<td align="center" width="20%">
+<span><b><center>FrontEnd</center></b></span><br>
 </td>
 
 
@@ -57,10 +61,9 @@
 <span><b><center>Deep Learning</center></b></span><br>
 <img src="https://img.icons8.com/ios/100/000000/learning.png"/>
 </td>
-   
-   <td align="center" width="20%">
-    <span><b><center>Medical Research (Mental Health)</center></b></span><br>
-    <img src="https://img.icons8.com/windows/32/000000/mental-health.png"/>
+  
+  <td align="center" width="20%">
+    <span><b><center>Frontend Development</center></b></span><br>
   </td>
 </tr>
 </table>
